@@ -66,5 +66,5 @@ These insights empower data-driven decision-making for future inventory planning
 
 ---
 
-*Prepared by: [Your Name]*  
+*Prepared by: Ayush Jaiswal*  
 *Intern at Future Interns – Data Science & Analytics*
